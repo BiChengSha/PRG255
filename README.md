@@ -10,6 +10,7 @@ February 19, 2017
 
     11:36 - uploaded lab 6
     11:37 - added more details to readme.md
+    11:41 - Uploaded lab 2, 3, and 5
 
 January 26, 2017
 
